@@ -3,14 +3,14 @@ import { Space_Grotesk } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
-const spaceGrotesk = Space_Grotesk({ 
+const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
   variable: '--font-space-grotesk'
 });
 
 export const metadata: Metadata = {
-  title: 'CalloDevelops | Expert LuaU Scripter',
-  description: 'Professional Roblox developer specializing in clean, modular LuaU architecture. Building efficient game systems with 50M+ visits.',
+  title: 'CalloDevelops | Advanced Scripter',
+  description: 'Developing clean and scalable systems, from fully fledged experiences to simple commissions.',
   generator: 'v0.app',
   icons: {
     icon: [
